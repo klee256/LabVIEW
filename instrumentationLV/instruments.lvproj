@@ -11,7 +11,10 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="frontPanels.vi" Type="VI" URL="../frontPanels.vi"/>
-		<Item Name="Dependencies" Type="Dependencies"/>
+		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="Thorlabs.MotionControl.Controls.dll" Type="Document" URL="../Thorlabs.MotionControl.Controls.dll"/>
+			<Item Name="ThorLabs.MotionControl.KCube.DCServoCLI.dll" Type="Document" URL="../ThorLabs.MotionControl.KCube.DCServoCLI.dll"/>
+		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>
