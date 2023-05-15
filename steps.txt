@@ -1,0 +1,19 @@
+Input starting x/y
+
+Go to starting x/y minus stepSize
+
+--- FOR LOOP y steps ---
+Step y 1
+
+
+--- FOR LOOP x steps ---
+Step x 1
+measure
+write to file
+------------------------
+
+return to initial x val
+
+
+
+------------------------
