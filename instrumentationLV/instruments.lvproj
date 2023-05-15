@@ -11,6 +11,8 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="frontPanels.vi" Type="VI" URL="../frontPanels.vi"/>
+		<Item Name="stateMachine.vi" Type="VI" URL="../stateMachine.vi"/>
+		<Item Name="testingCode.vi" Type="VI" URL="../testingCode.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="Thorlabs.MotionControl.Controls.dll" Type="Document" URL="../Thorlabs.MotionControl.Controls.dll"/>
 			<Item Name="Thorlabs.MotionControl.GenericMotorCLI.dll" Type="Document" URL="../Thorlabs.MotionControl.GenericMotorCLI.dll"/>
