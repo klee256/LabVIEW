@@ -13,6 +13,7 @@
 		<Item Name="arrayMath.vi" Type="VI" URL="../arrayMath.vi"/>
 		<Item Name="avgSpectra.vi" Type="VI" URL="../avgSpectra.vi"/>
 		<Item Name="frontPanels.vi" Type="VI" URL="../frontPanels.vi"/>
+		<Item Name="sandbox_simple.vi" Type="VI" URL="../sandbox_simple.vi"/>
 		<Item Name="simpleCode2.vi" Type="VI" URL="../simpleCode2.vi"/>
 		<Item Name="simpleCodeSandbox.vi" Type="VI" URL="../simpleCodeSandbox.vi"/>
 		<Item Name="spectrometerTesting.vi" Type="VI" URL="../spectrometerTesting.vi"/>
