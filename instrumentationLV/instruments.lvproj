@@ -13,6 +13,9 @@
 		<Item Name="arrayMath.vi" Type="VI" URL="../arrayMath.vi"/>
 		<Item Name="avgSpectra.vi" Type="VI" URL="../avgSpectra.vi"/>
 		<Item Name="frontPanels.vi" Type="VI" URL="../frontPanels.vi"/>
+		<Item Name="multiSaving.vi" Type="VI" URL="../multiSaving.vi"/>
+		<Item Name="notifierTest.vi" Type="VI" URL="../notifierTest.vi"/>
+		<Item Name="oscope_oldMethod.vi" Type="VI" URL="../oscope_oldMethod.vi"/>
 		<Item Name="sandbox_simple.vi" Type="VI" URL="../sandbox_simple.vi"/>
 		<Item Name="simpleCode2.vi" Type="VI" URL="../simpleCode2.vi"/>
 		<Item Name="simpleCodeSandbox.vi" Type="VI" URL="../simpleCodeSandbox.vi"/>
@@ -70,9 +73,12 @@
 				<Item Name="Write Spreadsheet String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Spreadsheet String.vi"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
+			<Item Name="Tektronix ConfigOnly.vi" Type="VI" URL="../../../ScanningProgram-20230511T204033Z-001/ScanningProgram/DC Motor Control-20211217T155342Z-001/DC Motor Control/Internal SubVIs/Tektronix ConfigOnly.vi"/>
+			<Item Name="Tektronix Init_n_Config.vi" Type="VI" URL="../../../ScanningProgram-20230511T204033Z-001/ScanningProgram/DC Motor Control-20211217T155342Z-001/DC Motor Control/Internal SubVIs/Tektronix Init_n_Config.vi"/>
 			<Item Name="Thorlabs.MotionControl.Controls.dll" Type="Document" URL="../Thorlabs.MotionControl.Controls.dll"/>
 			<Item Name="Thorlabs.MotionControl.GenericMotorCLI.dll" Type="Document" URL="../Thorlabs.MotionControl.GenericMotorCLI.dll"/>
 			<Item Name="ThorLabs.MotionControl.KCube.DCServoCLI.dll" Type="Document" URL="../ThorLabs.MotionControl.KCube.DCServoCLI.dll"/>
+			<Item Name="Wait and Read from Oscilloscope.vi" Type="VI" URL="../../../ScanningProgram-20230511T204033Z-001/ScanningProgram/DC Motor Control-20211217T155342Z-001/DC Motor Control/Internal SubVIs/Wait and Read from Oscilloscope.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
